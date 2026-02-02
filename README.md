@@ -6,8 +6,11 @@ The most important project / cheat / script for Prison Life. Active development 
 At the beginning of active development the visual component of the script was completely redirected towards the use of a free library on the basis of which the Hexagon script on Counter Blox playstyle was created (the first version of NeversusRebornV1 has no graphical interface). The original plan was not to use graphical libraries, but to create the script from scratch, but the development was too slow (and at that time I was inexperienced in GUI creation).
 
 After resuming the process of writing the script, the Reborn prefix was added to the version/name, which was discarded after the first use, but still has value in the correlation between old and new versions. 
+> [!CAUTION]
+> At the end of the summer of 2023, the project was frozen (NeversusV2.8 is the latest release version(26.08.2023 21:42:33))
 
-at the end of the summer of 2023, the project was frozen (NeversusV2.8 is the latest release version(26.08.2023 21:42:33)) 
+> [!IMPORTANT]
+> It's been quite a while since I started this project, but now I can say that I won't be returning to it. So... Starting February 2, 2026, the repository will become a public project with an MIT license! I hope my code will help novice developers in exploiting Roblox games. Thank you to this community for sparking my interest in programming. I will miss you all ;)
 
 ###  Version history
 
