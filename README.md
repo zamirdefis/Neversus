@@ -1,6 +1,53 @@
 ﻿
 # Neversus
 
+<p align="center">
+<img src="res/screenshots/gameplay/main.png" width="45%" />
+<img src="res/screenshots/gameplay/main2.png" width="45%" />
+</p>
+
+<details>
+<summary><b>Gameplay</b></summary>
+
+
+<p align="center">
+<img src="res/screenshots/gameplay/1.png" width="30%" />
+<img src="res/screenshots/gameplay/2.png" width="30%" />
+<img src="res/screenshots/gameplay/4.png" width="30%" />
+<img src="res/screenshots/gameplay/6.png" width="30%" />
+<img src="res/screenshots/gameplay/7.png" width="30%" />
+</p>
+</details>
+
+<details>
+<summary><b>Menu</b></summary>
+
+
+<p align="center">
+<img src="res/screenshots/menu/legit.png" width="30%" />
+<img src="res/screenshots/menu/misc.png" width="30%" />
+<img src="res/screenshots/menu/misc2.png" width="30%" />
+
+<img src="res/screenshots/menu/visuals.png" width="30%" />
+<img src="res/screenshots/menu/visuals2.png" width="30%" />
+<img src="res/screenshots/menu/visuals3.png" width="30%" />
+<img src="res/screenshots/menu/visuals4.png" width="30%" />
+<img src="res/screenshots/menu/visuals5.png" width="30%" />
+<img src="res/screenshots/menu/visuals6.png" width="30%" />
+<img src="res/screenshots/menu/visuals7.png" width="30%" />
+<img src="res/screenshots/menu/visuals8.png" width="30%" />
+<img src="res/screenshots/menu/visuals9.png" width="30%" />
+<img src="res/screenshots/menu/visuals10.png" width="30%" />
+<img src="res/screenshots/menu/visuals11.png" width="30%" />
+<img src="res/screenshots/menu/visuals12.png" width="30%" />
+<img src="res/screenshots/menu/visuals13.png" width="30%" />
+<img src="res/screenshots/menu/visuals14.png" width="30%" />
+
+<img src="res/screenshots/menu/settings.png" width="30%" />
+<img src="res/screenshots/menu/nsusold.png" width="30%" />
+</p>
+</details>
+
 The most important project / cheat / script for Prison Life. Active development has been underway since early summer 2023 / 06.06.2023 18:00 (NeversusRebornV1). The very first appearance of the script was 24.02.2023 16:07 (Neversus24.02.20231607).
 
 At the beginning of active development the visual component of the script was completely redirected towards the use of a free library on the basis of which the Hexagon script on Counter Blox playstyle was created (the first version of NeversusRebornV1 has no graphical interface). The original plan was not to use graphical libraries, but to create the script from scratch, but the development was too slow (and at that time I was inexperienced in GUI creation).
